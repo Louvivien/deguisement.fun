@@ -2,7 +2,7 @@
 layout: page
 title: Plein d'idées de déguisements pour toutes les occassions !
 permalink: "/about/"
-image: assets/images/deguisement-fun.png
+image: assets/images/deguisement-fun.webp
 ---
 
 Bienvenue sur notre blog dédié aux idées de déguisements ! Nous sommes une équipe de passionnés de déguisements et de costumes, et nous avons créé ce blog afin de partager notre passion avec vous.
