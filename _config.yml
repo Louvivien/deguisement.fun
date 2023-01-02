@@ -1,15 +1,15 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Déguisement"
+email: deguisement.fun@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
-disqus: 'demowebsite'
-locale: en_us
-lang: en_us
+disqus: 'www-deguisement-fun'
+locale: fr
+lang: fr
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -20,32 +20,24 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: G-CXVY4MDFDT
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  zoe:
+    name: Zoé déguisements
+    display_name: Zoé déguisement
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
-
+    email: deguisement.fun@gmail.com
+    web: https://www.deguisement.fun
+    twitter: https://twitter.com/Deguisementfun
+    description: "Blog sur le déguisement et la création de costumes pour tous les âges. Costumes, idées de déguisements, accessoires, maquillage, carnaval, Halloween, fêtes, déguisements originaux, transformation, créativité, déguisement enfant, déguisement adulte, déguisement groupes, déguisement couple, déguisement animaux."
+  
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/deguisement.fun/
+  facebook: https://www.facebook.com/profile.php?id=100089125362385
+  twitter: https://twitter.com/Deguisementfun
 
 # Plugins
 plugins: 

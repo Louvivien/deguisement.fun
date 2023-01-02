@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: Plein d'idées de déguisements pour toutes les occassions !
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/deguisement-fun.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+Bienvenue sur notre blog dédié aux idées de déguisements ! Nous sommes une équipe de passionnés de déguisements et de costumes, et nous avons créé ce blog afin de partager notre passion avec vous.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Sur notre blog, vous trouverez des idées pour tous les types de déguisements, que ce soit pour Halloween, un anniversaire, un EVJF ou toute autre occasion. Nous sommes là pour vous aider à trouver le déguisement parfait pour votre prochaine soirée déguisée, quel que soit votre budget ou votre style.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+Nous espérons que vous apprécierez notre blog et que vous y trouverez des idées de déguisements pour votre prochaine fête. N'hésitez pas à nous contacter si vous avez des questions ou si vous avez besoin de conseils pour trouver le déguisement parfait pour vous !

@@ -1,32 +1,32 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Déguisement
   url: ""
 
-- title: About
+- title: A propos
   url: "about/"
 
 - title: Contact
   url: "contact/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Meilleures ventes déguisements  
+  url: https://amzn.to/3IhOxsh
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Déguisement
   url: ""
 
-- title: Privacy Policy
+- title: Polittique de confidentialité
   url: "privacy-policy/"
 
 - title: Contact
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: Meilleures ventes déguisements 
+  url: https://amzn.to/3IhOxsh  
   external: true

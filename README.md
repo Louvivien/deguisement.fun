@@ -1,5 +1,5 @@
-# Affiliates - Free Jekyll Theme
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+# Site de déguisement
 
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
+Projet Github Page d'affiliation d'article de déguisement Amazon
+[Live Site](https://www.deguisement.fun/) 
