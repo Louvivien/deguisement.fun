@@ -1,7 +1,8 @@
 title: "Déguisement"
 email: deguisement.fun@gmail.com
 timezone: UTC
-baseurl: ""
+url: louvivien.github.io
+baseurl: /deguisement.fun
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -21,6 +22,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 ganalytics: G-CXVY4MDFDT
+
 
 # Authors
 authors:
