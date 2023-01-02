@@ -6,7 +6,7 @@ categories: [ enfants]
 image: assets/images/deguisement-enfant.png
 description: "Trouvez le déguisement parfait pour votre enfant grâce à notre sélection des meilleures idées de déguisements. Que ce soit pour Halloween, un anniversaire ou toute autre occasion, nous avons rassemblé pour vous une liste des déguisements les plus populaires pour les enfants. Faites plaisir à votre petit en lui offrant le déguisement de ses rêves !"
 ---
-VVous cherchez un déguisement pour votre enfant pour une occasion spéciale ? Que ce soit pour Halloween, un anniversaire ou toute autre occasion, nous avons rassemblé pour vous une liste des meilleures idées de déguisements pour enfants.
+Vous cherchez un déguisement pour votre enfant pour une occasion spéciale ? Que ce soit pour Halloween, un anniversaire ou toute autre occasion, nous avons rassemblé pour vous une liste des meilleures idées de déguisements pour enfants.
 
 Il existe une grande variété de déguisements sur le marché, allant des classiques comme les déguisements de princesses et de super-héros aux costumes plus originaux comme les déguisements de licornes et de panda. Quel que soit le goût ou la personnalité de votre enfant, il y a un déguisement qui lui plaira.
 
