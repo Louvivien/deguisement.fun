@@ -1,7 +1,7 @@
-title: "Déguisement"
+title: "Déguisements pour toutes les occasions : Halloween, EVJF, anniversaires, EVG"
 email: deguisement.fun@gmail.com
 timezone: UTC
-url: "https://www.deguisement.fun"
+url: "www.deguisement.fun"
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
@@ -33,7 +33,7 @@ authors:
     email: deguisement.fun@gmail.com
     web: https://www.deguisement.fun
     twitter: https://twitter.com/Deguisementfun
-    description: "Blog sur le déguisement et la création de costumes pour tous les âges. Costumes, idées de déguisements, accessoires, maquillage, carnaval, Halloween, fêtes, déguisements originaux, transformation, créativité, déguisement enfant, déguisement adulte, déguisement groupes, déguisement couple, déguisement animaux."
+    description: "Trouvez le déguisement parfait pour votre prochaine fête grâce à notre blog de déguisements. Que ce soit pour Halloween, un anniversaire, un EVJF, un EVG ou toute autre occasion, nous avons rassemblé pour vous les meilleures idées de déguisements pour tous les budgets et styles."
   
 # Social
 social:
